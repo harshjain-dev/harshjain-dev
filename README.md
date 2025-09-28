@@ -42,8 +42,8 @@ I’m open to reviewing Android libraries, map/tiles performance work, or Compos
 
 #### 📊 GitHub quick stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshjain2094&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjain2094&layout=compact&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshjain-dev&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjain-dev&layout=compact&hide_title=true" />
 </p>
 
 <!-- Footer note -->
